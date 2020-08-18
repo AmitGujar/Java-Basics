@@ -1,5 +1,5 @@
 import java.util.Vector;
-
+//understanding vectors
 public class vctr {
     public static void main(String[] args) {
         Vector V = new Vector();
