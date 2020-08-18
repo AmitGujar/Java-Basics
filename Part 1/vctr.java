@@ -1,5 +1,6 @@
 import java.util.Vector;
 //understanding vectors
+@SuppressWarnings("unchecked") //suppress the warnings
 public class vctr {
     public static void main(String[] args) {
         Vector V = new Vector();
